@@ -16,4 +16,4 @@ L'interet de ce notebook est de visualiser quelques résultats qui découlent d'
 * Produit de convolution
 * Noyaux de sommabilité
 * Noyau de Fejer (qui est un noyau de sommabilité)
-* noyau de dirichlet(qui n'est pas un noyau de sommabilité)
+* noyau de Dirichlet (qui n'est pas un noyau de sommabilité)
